@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageSelector">
+        <attr name="numPages" format="integer" />
+        <attr name="selectedColor" format="color" />
+        <attr name="defaultColor" format="color" />
+    </declare-styleable>
+</resources>
